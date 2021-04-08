@@ -1,0 +1,11 @@
+-Xmx16m -Xms16m
+
+file://localhost/C:/Users/Admin/Documents/Java/WebWordStat/tiny.html
+file://localhost/C:/Users/Admin/Documents/Java/WebWordStat/tiny_xerox_65536_times.html
+
+file://localhost/./tiny.html
+
+
+
+
+
